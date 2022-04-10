@@ -1,0 +1,58 @@
+       
+TC001. Verify user can select product
+       1.user tap the number with the wanted product on the board
+       2.user selection is displayed on the keypad
+       3.the system will display how much you have to pay
+TC002. User input the wrong combination
+       1.user input wrong combination
+       2.on the keypad it is displayed that the product with such combination is missing
+TC003. Verify user inserted cash
+       1.user tap the number with the wanted product on the board
+       2.user selection is displayed on the keypad
+       3.the system will display how much you have to pay
+       4.user insert the needed cash
+       5.machine displayed how much cash was inserted
+TC004. Verify user inserted correct money
+       1.user tap the number with the wanted product on the board
+       2.user selection is displayed on the keypad
+       3.the system will display how much you have to pay
+       4.if the money is not enough on the keypad of the machine should be displayed that money is not enough
+       5. it is shown how much is missing
+TC005. Verify user insert extra money
+       1.user tap the number with the wanted product on the board
+       2.user selection is displayed on the keypad
+       3.the system will display how much you have to pay
+       4.user insert bigger amount that the cost of the product
+       5.the machine displayes the excess
+       6. return the excess money
+TC006. Verify that machine can work with different cash
+       1.user insert 1 dollar
+       2.user insert 10 dollars
+       3.user insert cents
+TC007. Verify if the machine will accept credit card
+       1.user tap the number with the wanted product on the board
+       2.user selection is displayed on the keypad
+       3.the system will display how much you have to pay
+       4.the payment is proceed
+TC008. Verify machine drop the correct product
+       1.user tap the number with the wanted product on the board
+       2.user selection is displayed on the keypad
+       3.the system will display how much you have to pay
+       4.user insert the needed cash
+       5.it is dropped the wanted product
+TC009. Set the same price for all products
+       1.user tap the number with the wanted product on the board
+       2.user selection is displayed on the keypad
+       3.the system will display how much you have to pay
+       4.user insert the needed cash
+       5.it is dropped the wanted product
+       6.user input number for other product with bigger price
+       7.user selection is displayed on the keypad
+       8.the system will display how much you have to pay
+       9.user insert the same amount of money that insert for the first product
+       10. it is displayed that the money is not enough
+TC010. Paying sold out product 
+       1.user tap the number with the wanted product on the board
+       3.the system will display that the wanted product is sold out 
+       
+       
